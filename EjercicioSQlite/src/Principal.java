@@ -73,6 +73,7 @@ public class Principal extends JFrame implements ActionListener{
 		 new Principal();
 		 System.out.println("LINEA 1 PARA REPOSITORIO GIT");
 		 System.out.println("LINEA 2 PARA REPOSITORIO GIT");
+		 System.out.println("Líneas en método main");
 		}//fin main
    
 }//fin class 
